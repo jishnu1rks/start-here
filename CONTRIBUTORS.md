@@ -197,7 +197,7 @@ Add your **i) Github username** and **ii) GitHub profile link** to the **Contrib
 187. [Adarshagupta](https://github.com/Adarshagupta)
 188. [Aamiroll](https://github.com/Aamiroll)
 189. [KevinNitroG](https//github.com/KevinNitroG)
-190. [JishnuKrishnan](https//github.com/jishnu1rks)
+190. [jishnu1rks](https://github.com/jishnu1rks)
 191. [Angelo-Destin](https://github.com/Angelo-Destin)
 192. [DevSaLLein](https://github.com/DevSaLLein)
 193. [StackOverflowIsBetterThanAnyAI](https://github.com/StackOverflowIsBetterThanAnyAI)
